@@ -2,7 +2,7 @@
 
 ### my-ten-app
 
-## installation:;
+## installation:
 
 ```js
 npm i my-ten-app-

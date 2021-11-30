@@ -3,7 +3,7 @@
     "version": "2.0.3",
     "description": "",
     "main": "main.js",
-    "script": {},
+    "scripts": {},
     "repository": {
         "type": "git",
         "url": "git+https://github.com/ademten7/my-ten-app.git"

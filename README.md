@@ -1,14 +1,14 @@
-##first npm package
+# first npm package
 
 ### my-ten-app
 
-##installation:;
+## installation:;
 
 ```js
 npm i my-ten-app-
 ```
 
-##Usage:
+## Usage:
 
 \*CommonJS Syntax
 

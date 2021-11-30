@@ -13,11 +13,11 @@ npm i my-ten-app-
 \*CommonJS Syntax
 
 ```js
-const { addition, multiply } = require("my-ten-app");
+const { addition, multiply } = require("my-ten-app-");
 ```
 
 \*ES6 Syntax
 
 ```js
-import { addition, multiply } from "my-ten-app";
+import { addition, multiply } from "my-ten-app-";
 ```

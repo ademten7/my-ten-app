@@ -20,5 +20,4 @@ const { addition, multiply } = require("my-ten-app");
 
 ```js
 import { addition, multiply } from "my-ten-app";
-i;
 ```
